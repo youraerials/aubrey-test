@@ -33,10 +33,10 @@
 @keyframes snackbar-rotate {
     
     0% {
-       transform: translate3d(0,0,-200vw) rotateY(0deg);
+       transform: translate3d(0,0,-200vw) rotateX(0deg) rotateY(0deg);
     }
     100% {
-        transform: translate3d(0,0,-200vw) rotateY(360deg);
+        transform: translate3d(0,0,-200vw) rotateX(720deg) rotateY(360deg);
     }
 }
 
