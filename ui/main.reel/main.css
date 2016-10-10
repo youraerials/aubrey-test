@@ -16,8 +16,8 @@
     position: absolute;
     transform-style: preserve-3d;
     
-    width: 70vw;
-    left: 15vw;
+    width: 80vw;
+    left: 10vw;
     top: 10vh;
     
     background: rgba(255,0,0,0.3);
