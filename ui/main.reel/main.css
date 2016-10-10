@@ -35,6 +35,8 @@
     height: 80vw;
     left: 0;
     top: 10;
+    
+    background: rgba(0,255,0, 0.2);
 }
 
 .side-1 {
