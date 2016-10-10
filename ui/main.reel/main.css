@@ -27,6 +27,15 @@
     
 }
 
+@keyframes snackbar-rotate {
+    
+    0% {
+       transform: translate3d(0,0,-200vw) rotateY(0deg);
+    }
+    100% {
+        transform: translate3d(0,0,-200vw) rotateY(0deg);
+    }
+
 .side {
     position: absolute;
     transform-style: preserve-3d;
