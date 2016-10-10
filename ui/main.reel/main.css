@@ -21,8 +21,6 @@
     left: 10vw;
     top: 10vh;
     
-    overflow: hidden;
-    
     background: rgba(255,0,0,0.3);
     
     transform: translate3d(0,0,-200vw);
