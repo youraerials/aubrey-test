@@ -47,31 +47,31 @@
 
 .side-2 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(0deg);
+    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(90deg);
 
 }
 
 .side-3 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(0deg);
+    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(180deg);
 
 }
 
 .side-4 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(0deg);
+    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(-90deg);
 
 }
 
 .side-5 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(0deg);
+    transform: translate3d(0,0,100vw) rotateX(-90deg) rotatey(0deg);
 
 }
 
 .side-6 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(0deg);
+    transform: translate3d(0,0,100vw) rotateX(90deg) rotatey(0deg);
 
 }
     
