@@ -35,6 +35,7 @@
     100% {
         transform: translate3d(0,0,-200vw) rotateY(0deg);
     }
+}
 
 .side {
     position: absolute;
