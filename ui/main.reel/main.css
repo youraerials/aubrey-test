@@ -17,6 +17,7 @@
     transform-style: preserve-3d;
     
     width: 80vw;
+    height: 80vw;
     left: 10vw;
     top: 10vh;
     
@@ -27,7 +28,12 @@
 }
 
 .side {
-    
+    position: absolute;
+    transform-style: preserve-3d;
+
+    width: 80vw;
+    left: 10vw;
+    top: 10vh;
 }
 
 .side-1 {
