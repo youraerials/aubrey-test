@@ -41,7 +41,7 @@
 
 .side-1 {
     
-    transform: translate3d(0,0,100vw);
+    transform: translate3d(0,0,100vw) rotateX(0deg) rotatey(0deg);
     
 }
     
