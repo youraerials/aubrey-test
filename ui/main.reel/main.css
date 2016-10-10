@@ -1,1 +1,29 @@
-.Main {}
+.Main {
+
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    
+    perspective: 800px;
+    perspective-origin: 50% 50%;
+    
+}
+
+
+
+.snackbar {
+ 
+    position: absolute;
+    transform-style: preserve-3d;
+    
+    width: 70vw;
+    left: 15vw;
+    top: 10vh;
+    
+    background: rgba(255,0,0,0.3);
+    
+}
+    
+    
+    
+    
