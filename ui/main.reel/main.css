@@ -41,6 +41,8 @@
 
 .side-1 {
     
+    transform: translate3d(0,0,-200vw);
+    
 }
     
     
