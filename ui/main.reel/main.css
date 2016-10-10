@@ -22,6 +22,16 @@
     
     background: rgba(255,0,0,0.3);
     
+    transform: translate3d(0,0,-200vw);
+    
+}
+
+.side {
+    
+}
+
+.side-1 {
+    
 }
     
     
