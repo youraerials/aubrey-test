@@ -53,37 +53,37 @@
 
 .side-1 {
     
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotateY(0deg);
+    transform: translate3d(0,0,50vw) rotateX(0deg) rotateY(0deg);
     
 }
 
 .side-2 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotateY(90deg);
+    transform: translate3d(0,0,50vw) rotateX(0deg) rotateY(90deg);
 
 }
 
 .side-3 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotateY(180deg);
+    transform: translate3d(0,0,50vw) rotateX(0deg) rotateY(180deg);
 
 }
 
 .side-4 {
 
-    transform: translate3d(0,0,100vw) rotateX(0deg) rotateY(-90deg);
+    transform: translate3d(0,0,50vw) rotateX(0deg) rotateY(-90deg);
 
 }
 
 .side-5 {
 
-    transform: translate3d(0,0,100vw) rotateX(-90deg) rotateY(0deg);
+    transform: translate3d(0,0,50vw) rotateX(-90deg) rotateY(0deg);
 
 }
 
 .side-6 {
 
-    transform: translate3d(0,0,100vw) rotateX(90deg) rotateY(0deg);
+    transform: translate3d(0,0,50vw) rotateX(90deg) rotateY(0deg);
 
 }
     
